@@ -22,6 +22,8 @@ func sum(x int,y int)  int {
 	return result
 }
 
+
+
 func sqrt(x float64)(float64, error)  {
 	if x < 0 {
 		return 0, errors.New("Manfiy son uchun aniq emas:")
