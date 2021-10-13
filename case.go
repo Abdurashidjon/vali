@@ -31,6 +31,8 @@ func testSwitch1(){
   }
 }
 
+
+
 func testSwitch2()  {
 	a :=1;
 	switch  a{
